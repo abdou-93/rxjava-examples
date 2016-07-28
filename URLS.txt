@@ -1,0 +1,5 @@
+https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf
+https://www.austincc.edu/hr/profdev/eworkshops/docs/HTML_Basics.pdf
+http://www.cs.cf.ac.uk/Dave/Internet/Lectures/Handout_5_PF.pdf
+http://www.cs.cf.ac.uk/Dave/Internet/Lectures/Handout_5_PF.pdf
+https://html.spec.whatwg.org/print.pdf

@@ -6,6 +6,10 @@ import rx.Subscriber;
  */
 public class HelloWorld {
     public static void main(String[] args) {
+
+
+
+
         generateNumberLine(10)
                 .subscribe(e -> System.out.print(e + " "));
     }
